@@ -1,4 +1,4 @@
-package com.yonikal.chronjob.chron;
+package com.yonikal.chronlib;
 
 import android.widget.Toast;
 import android.content.Context;

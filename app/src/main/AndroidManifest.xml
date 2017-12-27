@@ -23,7 +23,7 @@
 
 
 
-        <service android:name=".chron.ChronService"
+        <service android:name="com.yonikal.chronlib.ChronService"
             android:enabled="true"/>
     </application>
 

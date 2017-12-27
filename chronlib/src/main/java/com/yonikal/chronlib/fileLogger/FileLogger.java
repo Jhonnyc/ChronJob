@@ -1,4 +1,4 @@
-package com.yonikal.chronjob.fileLogger;
+package com.yonikal.chronlib.fileLogger;
 
 import android.content.Context;
 import android.location.Location;

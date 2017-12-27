@@ -1,8 +1,8 @@
-package com.yonikal.chronjob.fileLogger;
+package com.yonikal.chronlib.fileLogger;
 
 import android.location.Location;
 
-import com.yonikal.chronjob.chron.TimeUtils;
+import com.yonikal.chronlib.TimeUtils;
 
 
 /**

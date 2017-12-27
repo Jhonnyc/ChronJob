@@ -1,4 +1,4 @@
-package com.yonikal.chronjob.chron;
+package com.yonikal.chronlib;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -8,8 +8,8 @@ import android.content.Intent;
 import android.os.IBinder;
 import android.support.annotation.Nullable;
 
-import com.yonikal.chronjob.fileLogger.FileLogger;
-import com.yonikal.chronjob.fileLogger.LogFile;
+import com.yonikal.chronlib.fileLogger.FileLogger;
+import com.yonikal.chronlib.fileLogger.LogFile;
 
 import java.util.concurrent.TimeUnit;
 
